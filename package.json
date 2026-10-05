@@ -3,6 +3,14 @@
   "version": "0.1.0",
   "description": "Championship Manager 97/98 player database for JavaScript and TypeScript",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baskeyx/cm9798.git"
+  },
+  "homepage": "https://github.com/baskeyx/cm9798#readme",
+  "bugs": {
+    "url": "https://github.com/baskeyx/cm9798/issues"
+  },
   "type": "module",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
